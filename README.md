@@ -1,7 +1,7 @@
 # Planetary-Pipe-Dodger
 2D C++ game where the player must dodge incoming pipes.
 
-**_The "graphics.h" and "resource.h" files were provided by my professor at Biola University. I did not contribute to any of the code found in those two files. I an responsible for the code in the "my-games.cpp" file._**
+**_The "graphics.h" and "resource.h" files were provided by my professor at Biola University. I did not contribute to any of the code found in those two files. I an responsible for the code in the "my-game.cpp" file._**
 
 # Game Description:
 ### WARNING!!!! YOUR PLANET WAS SUCKED INTO A PIPE FILLED WORM HOLE!!!
